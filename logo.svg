@@ -1,0 +1,10 @@
+<svg width="240" height="140" viewBox="0 0 240 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Upper eyelid (heavy, sleepy) -->
+  <path d="M40 70 Q120 30 200 70" stroke="#2F3A40" stroke-width="8" fill="none" stroke-linecap="round"></path>
+
+  <!-- Lower eyelid (thin, relaxed) -->
+  <path d="M60 80 Q120 95 180 80" stroke="#2F3A40" stroke-width="3" fill="none" stroke-linecap="round"></path>
+
+  <!-- Pupil (small, calm) -->
+  <circle cx="130" cy="72" r="6" fill="#2F3A40"></circle>
+</svg>
