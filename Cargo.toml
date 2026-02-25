@@ -1,0 +1,9 @@
+[package]
+name = "noroa"
+version = "0.0.1"
+edition = "2021"
+
+description = "A sleepy presence. Not watching. Just existing."
+license = "MIT"
+
+[dependencies]
